@@ -1,0 +1,30 @@
+body {
+    margin-right: 12px;
+    margin-left: 12px;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+img {
+    border:5px solid blue;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
+
+.box {
+    border:2px solid #ddd;
+    border-radius: 12px;
+    padding: 0 12px 0 12px;
+    margin-top: 12px;
+    background-color: lavender;
+}
+.box title {
+    color:blue;
+}
